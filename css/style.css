@@ -17,8 +17,7 @@ body {
 }
 
 ol,
-ul,
-{
+ul {
     line-height: 0.8em;
 }
 
