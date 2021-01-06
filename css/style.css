@@ -16,6 +16,12 @@ body {
     width: 1200px;
 }
 
+ol,
+ul,
+{
+    line-height: 0.8em;
+}
+
 h2 {
     color: #483d8b;
 }
@@ -23,4 +29,9 @@ h2 {
 h3 {
     color: forestgreen;
     text-decoration: underline;
+}
+
+code {
+    color: red;
+    font-size: 18px;
 }
