@@ -39,3 +39,31 @@ footer {
     text-align: center;
     font-size: 12px;
 }
+
+.clearfix {
+    clear: both;
+}
+
+.section img {
+    width: 33%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.section-video video {
+    box-sizing: border-box;
+    width: 33.33%;
+}
+
+.section-iframes {
+    width: 33.33%;
+}
+
+.lists {
+    float: left;
+    width: 33%;
+    border: 1px solid red;
+    box-sizing: border-box;
+    margin: 2px;
+    padding-left: 5px;
+}
