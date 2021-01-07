@@ -67,3 +67,25 @@ footer {
     margin: 2px;
     padding-left: 5px;
 }
+
+table,
+td {
+    border: 1px solid brown;
+    padding: 12px;
+}
+
+th {
+    background-color: grey;
+    color: #5a052f;
+}
+
+caption {
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+caption h3 {
+    color: white;
+}
